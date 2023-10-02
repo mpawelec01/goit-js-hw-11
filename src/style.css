@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: rgba(0, 0, 255, 0.6);
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  box-shadow: 0 4px 6px -6px #222;
+}
+
+.search-form input {
+  padding: 10px 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  padding: 10px 5px;
+  border-radius: 10px;
+  border: none;
+}
